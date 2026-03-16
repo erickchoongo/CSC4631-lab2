@@ -1,3 +1,3 @@
 Project mission statement 
 Mission leader: Benjiro
-Project mission: Build a reliable courier management system
+Project mission: Deliver packages across Zambia quickly and reliably
