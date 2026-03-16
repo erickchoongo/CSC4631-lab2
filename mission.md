@@ -1,2 +1,2 @@
 Project mission statement 
-Mission leader: Benjiro
+Mission leader: Madalitso
